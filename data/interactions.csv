@@ -1,0 +1,7 @@
+user_id,video_id,interaction
+1,101,like
+1,102,comment
+2,103,share
+2,101,like
+3,104,like
+3,105,comment
